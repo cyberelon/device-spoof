@@ -1,4 +1,4 @@
-# Widevine-L1
+# Spoof your device
 This module enables widevine L1 and HDR support, allowing it to spoof your device model.
 
 Minimum supported API is 19 (Android 4.4). This module is probably not needed on older Android versions anyway.
