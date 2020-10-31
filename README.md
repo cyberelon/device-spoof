@@ -1,5 +1,5 @@
 # Spoof your device
-This modules enables widevine L1 support, allowing it to spoof your device model.
+This modules enables widevine L1 support for Netflix, allowing it to spoof your device model.
 
 Minimum supported API is 19 (Android 4.4). This module is probably not needed on older Android versions anyway.
 
