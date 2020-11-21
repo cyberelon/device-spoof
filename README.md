@@ -1,13 +1,13 @@
 # Spoof your device
 This modules enables widevine L1 support for Netflix, allowing it to spoof your device model.
 
-Minimum supported API is 19 (Android 4.4). This module is probably not needed on older Android versions anyway.
-
 Features Compatible with any android phone with FHD display. Systemless: this module does not alter your system.
 
-How to use Install the module using Magisk Manager (manually downloading a zip from releases). Reboot. Clear Netflix App data or any streming app Enjoy!
+# How to use 
 
-Fix In case of bootllop
+Install the module using Magisk Manager (manually downloading a zip from releases). Reboot. Clear Netflix App data or any streming app Enjoy!
+
+# Fix In case of bootllop
 
 Boot into twrp 
 Advanced > terminal emulator
@@ -18,3 +18,9 @@ touch .disable_magisk
 ls -al ( it will show whether it created . disable_magisk)
 exit
 Reboot to system
+
+Or 
+
+Boot into recovery
+Open file manager
+Locate data/adb/modules/ delete specific module and reboot
