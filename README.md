@@ -1,7 +1,7 @@
 # Spoof your device
-This modules enables widevine L1 support for Netflix, allowing it to spoof your device model.
-
-Features Compatible with any android phone with FHD display. Systemless: this module does not alter your system.
+* This modules enables widevine L1 support for Netflix, allowing it to spoof your device model and and manufacturer.
+* Features Compatible with any Xiaomeme phone with L1 Certification by default
+* This module does not alter your system.
 
 # How to use 
 
