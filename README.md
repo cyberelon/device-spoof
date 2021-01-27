@@ -29,6 +29,7 @@ Or
 * Open file manager
 * Locate data/adb/modules/ delete specific module and reboot
 
+
 ## Links
 - [GitHub](https://github.com/cyberelon/device-spoof) 
 
