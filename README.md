@@ -28,3 +28,36 @@ Or
 * Boot into recovery
 * Open file manager
 * Locate data/adb/modules/ delete specific module and reboot
+
+## Links
+- [GitHub](https://github.com/cyberelon/device-spoof) 
+
+## Changelog
+### v2.3
+- Lmi
+### v2.2
+- Apollo
+### v2.1
+- Instantnoodlep
+### v2.0
+- Instantnoodle
+### v1.9
+- Ginkgo
+### v1.8
+- Redfin
+### v1.7
+- Bramble
+### v1.6
+- Sunfish
+### v1.5
+- Curtana
+### v1.4
+- Raphael
+### v1.3
+- Bonito
+### v1.2
+- Crosshatch
+### v1.1
+- Hotdog
+### v1.0
+- Coral
